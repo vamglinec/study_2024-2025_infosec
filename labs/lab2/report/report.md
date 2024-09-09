@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Отчёт по лабораторной работе №1"
+title: "Отчёт по лабораторной работе №2"
 subtitle: "Основы информационной безопасности"
 author: "Мглинец Варвара Александровна"
 
@@ -25,8 +25,8 @@ documentclass: scrreprt
 polyglossia-lang:
   name: russian
   options:
-- spelling=modern
-- babelshorthands=true
+  - spelling=modern
+  - babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
